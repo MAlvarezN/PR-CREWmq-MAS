@@ -1,0 +1,19 @@
+# Ignorar los pdfs para que no esten publicos
+papers/
+
+# Ignorar notas que he tomado
+notes/
+
+# Ignorar python environment y archivos generados por python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environment secrets
+.env
+
+# Other
+.DS_Store
+.idea/
+.vscode/
