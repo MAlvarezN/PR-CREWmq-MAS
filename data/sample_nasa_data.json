@@ -1,0 +1,14 @@
+{
+  "dataset": "mars_weather",
+  "source": "Sample data in the style of NASA InSight Mars Weather Service (month-1 placeholder)",
+  "records": [
+    {"sol": 400, "avg_temp_c": -62.1, "max_temp_c": -18.5, "min_temp_c": -95.4, "pressure_pa": 847.2, "wind_speed_ms": 5.1},
+    {"sol": 401, "avg_temp_c": -63.0, "max_temp_c": -20.2, "min_temp_c": -96.0, "pressure_pa": 849.5, "wind_speed_ms": 4.7},
+    {"sol": 402, "avg_temp_c": -61.8, "max_temp_c": -17.9, "min_temp_c": -94.8, "pressure_pa": 845.0, "wind_speed_ms": 5.6},
+    {"sol": 403, "avg_temp_c": -64.2, "max_temp_c": -22.4, "min_temp_c": -97.1, "pressure_pa": 851.3, "wind_speed_ms": 6.2},
+    {"sol": 404, "avg_temp_c": -60.5, "max_temp_c": -16.8, "min_temp_c": -93.9, "pressure_pa": 843.7, "wind_speed_ms": 4.2},
+    {"sol": 405, "avg_temp_c": -59.9, "max_temp_c": -15.6, "min_temp_c": -93.1, "pressure_pa": 842.1, "wind_speed_ms": 3.8},
+    {"sol": 406, "avg_temp_c": -61.3, "max_temp_c": -18.1, "min_temp_c": -94.5, "pressure_pa": 844.9, "wind_speed_ms": 4.9},
+    {"sol": 407, "avg_temp_c": -63.7, "max_temp_c": -21.0, "min_temp_c": -96.4, "pressure_pa": 850.0, "wind_speed_ms": 5.8}
+  ]
+}
