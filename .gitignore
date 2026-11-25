@@ -4,6 +4,9 @@ papers/
 # Ignorar notas que he tomado
 notes/
 
+# Ignorar archivo de data
+data/
+
 # Ignorar python environment y archivos generados por python
 .venv/
 __pycache__/
